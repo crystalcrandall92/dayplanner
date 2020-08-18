@@ -6,3 +6,4 @@ Text is saved via the submit function or by using a save button and fetches the 
 
 Happy face at the top of the page because it's the best way to start your day. Outside of coffee.
 
+![example](example/example.jpg)
